@@ -1,4 +1,4 @@
-# -Chicken-Disease-Classification
+# Chicken-Disease-Classification
 # Deep Learning &amp; CNN
 # Methods Applied
 
